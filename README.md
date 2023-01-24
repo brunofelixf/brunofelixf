@@ -1,4 +1,7 @@
-## Olá... sou Bruno Felix, Desenvolvedor de Software
+
+<div align="center"> Bruno Felix - Desenvolvedor de Software</div>
+<hr>
+
 <div align="center">
   <a href="https://github.combrunofelixf">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunofelixf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,6 +21,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   ##
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brunofelixf&bg_color=0d1117&color=914cd6&line=54a8c4&point=914cd6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <div> 
   <a href="https://instagram.com/brunowolf_photo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
